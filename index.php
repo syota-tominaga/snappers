@@ -1,5 +1,3 @@
 <?
-
 header('Location:index.html');
-
 ?>
